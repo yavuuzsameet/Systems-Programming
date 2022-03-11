@@ -1,8 +1,7 @@
 #include <QApplication>
 #include "nettwork.h"
 
-//@author: Ali Kaan Biber - 2018400069
-//@author: Yavuz Samet Topçuoğlu - 2019400285
+//@author: Yavuz Samet Topçuoğlu
 
 int main(int argc,char *argv[])
 {
